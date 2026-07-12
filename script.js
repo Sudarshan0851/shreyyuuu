@@ -11,27 +11,16 @@
   --------------------------------------------------- */
   const PASSWORD = "beautifullpartoflife";
   const BIRTHDAY_MONTH = 6; // July (0-indexed)
-  const BIRTHDAY_DAY = 26;
+  const BIRTHDAY_DAY = 16;
   const FIREWORKS_DURATION = 6000; // ms
 
   const LETTER_TEXT =
-`Many many happy returns of the day Bittu! 🥳❤️
+`Many many happy returns of the day shreyya! 🥳❤️
 
 Firstly... Tula sangaych tar tu majhya sathi khup khup jast 
-special ahes.
+special ahes..
 
-Jevha apan doghe sobat asto tevha mala khup bhari vatt.
-Mi nehmich tya moments chi vat pahat asto.
-
-Aplya sobatche pratyek second mala lakshat aahet.
-Majhya sathi hya janmachi priceless memory mhanje...
-jevha apan mast jhadacha savlit gappa marat baslelo hoto 
-tu majha mandi vr dok thevl hot 
-ti feeling shabdat express nahi karu shakat
-
-mahit nahi nemki kontya type cha bond ahe
-but jasa pn ahe khup bhari ahe ashich tu majhi raha
-i wish apla bond asach asava jindagi bhar...
+mahit nahi nemki ka pn tujhashi bollya vr khup chan vatt...
 
 Ata shabd nahiye ki tu majhya sathi kiti special ahes....
 
