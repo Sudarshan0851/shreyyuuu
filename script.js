@@ -20,22 +20,34 @@
 Firstly... Tula sangaych tar tu majhya sathi khup khup jast 
 special ahes..
 
-mahit nahi nemki ka pn tujhashi bollya vr khup chan vatt...
+tu jevha pasun maja life madhi ali ahes mi kharach khup happy rahto
+ani i always want to see you happy tu hastani khup chan distis bagh atta kashi 
+smile ahe tashich rahude kayam ...
 
-Ata shabd nahiye ki tu majhya sathi kiti special ahes....
+and hoo alway remember tu tu ahe tujhi jaga koni nahi gheu shakat
+your the bestest person i ever seen ... kahi lokana je milt tyachi kalji nahi rahat
+but tu akhya duniye madhi majasathi khup special ahe ...
 
-But I always want to see you...
+jevha apan bollo hoto tu mhane ki serious nako hou mi tr tyacha adhi pasun tujha premat ahe
+but tujh past hot mala tyatun tula baher kadhaych hot...
+tu majhi sath de mala energy de mi duniya paltun taken tujha sathi 
+
+bala khup khup khupp khup infinte prem re tula pilla sada anandi rahay 
+ani i wish ki mi lavkarach tula bhetayla yeil....
+
+baccha ani kayam lakshat thev tujha sathi mi kadhipn asel 
+duniya jaha tula radvel pn i lovee youuu my sweetest person 
+and I always want to see you...
 
 Happy
 Smiling
 Laughing
 Blushing
 
-Whether with me or without me.
 God bless you always.
 Never stop smiling.
 
-Happy Birthday to the most beautiful part of my life ❤️`;
+Happy Birthday to the most beautiful part of my life ❤️ shreyuu`;
 
   /* ---------------------------------------------------
      DOM REFERENCES
