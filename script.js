@@ -11,7 +11,7 @@
   --------------------------------------------------- */
   const PASSWORD = "beautifullpartoflife";
   const BIRTHDAY_MONTH = 6; // July (0-indexed)
-  const BIRTHDAY_DAY = 26;
+  const BIRTHDAY_DAY = 25;
   const FIREWORKS_DURATION = 6000; // ms
 
   const LETTER_TEXT =
